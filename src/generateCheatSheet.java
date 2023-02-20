@@ -21,7 +21,7 @@ public class generateCheatSheet {
                     globalne:
                         shift (dwa razy) = szukaj wszędzie
                         ctrl alt s = ustawienia globalne
-                        ctrl slt shift s = ustawienia projektu
+                        ctrl alt shift s = ustawienia projektu
 
                     git:
                         ctrl k = commit (zapisz lokalnie zmiany)

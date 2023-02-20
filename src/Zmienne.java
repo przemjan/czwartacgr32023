@@ -28,6 +28,12 @@ public class Zmienne {
 
         boolean slonce = false; // true
 
+        //  https://github.com/przemjan/czwartacgr32023
+
+        //  \\ubuckp
+        // public/janisz
+        //
+
     }
 
 }
